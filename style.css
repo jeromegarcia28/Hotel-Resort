@@ -1,0 +1,393 @@
+STYLE CSS CODE
+
+.bg {
+	background-image: url("homebackground.jpg");
+	height: 75%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	box-shadow: 8px 8px 3px grey;
+}
+.text{
+	font-size: 5vw;
+	text-align: center;
+	padding-top: 140px;
+	font-family: quattrocento, serif;
+	font-weight: bold;
+	letter-spacing: 4.5px;
+	color: #5b5b5b;
+}
+.navbar{
+	background-color: #5b5b5b;
+	padding: 16px;
+}
+.navbar-brand{
+	font-family: quattrocento, serif;
+	letter-spacing: 2px;
+	margin-left: 10px;
+	font-weight: bold;
+}
+.nav-link{
+	display: block;
+	color: #cbbb9f;
+	text-align: center;
+	font-size: 13px;
+	font-family:  quattrocento, serif;
+	font-weight: lighter;
+	letter-spacing: 1.5px;
+	
+  
+}
+.nav-item{
+	display: inline-block;
+	margin-left: 4px;
+  
+}
+
+#img1 {
+	display: block;
+	margin: 60px;
+	float: right;
+	margin-right: 2px;
+	width: 50%; 	
+	height: auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#img2 {
+	width: 100%;
+	height: auto;
+	margin-bottom: 15%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#heading{
+	text-align: left;
+	font-family: quattrocento, serif;
+	font-size: 2vw;
+	font-weight: lighter;
+	color: #5b5b5b;
+	letter-spacing: 3px;
+	margin-left: 60px;
+	margin-top: 60px;'
+	
+}
+#paragraph1{
+	color: #5b5b5b;
+	margin-left: 60px;
+	font-family: timesnewroman;	
+	font-size: 1.4vw;
+	letter-spacing: 0.5px;
+}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #5b5b5b;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+/* ABOUT US */
+.bg1 {
+	background-image: url("contact.jpg");
+	height: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.text1 {
+	font-size: 5vw;
+	text-align: center;
+	padding-top: 140px;
+	font-family: quattrocento, serif;
+	font-weight: bold;
+	letter-spacing: 4.5px;
+	color: #5b5b5b;
+}
+.bg2 {
+	background-color: #5b5b5b;
+	height: 20%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border: none;
+}
+#paragraph2 {
+	color: white;
+	font-family: timesnewroman;
+	font-size: 1.2vw;
+	letter-spacing: 1.1px;
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-right: 30px;	
+}
+#map {
+	margin-left: 50px;
+	margin-top: 10px;
+	margin-bottom: 70px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border: none;
+}
+.display-4 {
+	font-size: 1.2vw;
+	letter-spacing: 1.1px;
+	font-family: quattrocento, monospace;
+	color: #878787;
+	text-align: left;
+	margin-left: 170px;
+	margin-top: 40px;
+}
+#heading1 {
+	margin-top: 15px;
+	margin-left: 50%;
+	font-family: quattrocento, san-serif;
+	color: #878787;
+	letter-spacing: 1.1px;
+	font-size: 1.3vw;
+	font-weight: bold;
+}
+#info {
+	margin-left: 50%;
+	font-family: quattrocento, san-serif;
+	color: #878787;
+	letter-spacing: 1px;	
+}
+#heading2 {
+	margin-top: 50px;
+	margin-left: 50%;
+	font-family: quattrocento, san-serif;
+	color: #878787;
+	letter-spacing: 1.1px;
+	font-size: 1.3vw;
+	font-weight: bold;
+}
+#WD {
+	margin-left: 50%;
+	font-family: quattrocento, san-serif;
+	color: #878787;
+	letter-spacing: 1px;	
+}
+.Fbicon {
+	margin-left: 50%;	
+}
+#fbicon {
+	font-size: 1.2vw;
+	font-family: quattrocento, san-serif;
+	color: #878787;
+	letter-spacing: 0.5px;	
+}
+.Gmailicon {
+	margin-left: 50%;	
+}
+#gmailicon {
+	font-size: 1.2vw;
+	font-family: quattrocento, san-serif;
+	color: #878787;
+	letter-spacing: 0.5px;	
+}
+
+/* ROOMS AND ACCOMODATION */
+.bg3 {
+	background-image: url("RnA.jpg");
+	height: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.text2 {
+	font-size: 5vw;
+	text-align: center;
+	padding-top: 140px;
+	font-family: quattrocento, serif;
+	font-weight: bold;
+	letter-spacing: 4.5px;
+	color: #5b5b5b;
+}
+.boxgray {
+	background-color: #5b5b5b;
+	height: 20%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border: none;
+}
+#paragraph3 {
+	color: white;
+	font-family: timesnewroman;
+	font-size: 1.2vw;
+	letter-spacing: 1.1px;
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-right: 30px;	
+}
+table {		
+	margin-top: 100px;
+	margin-left:auto;
+	margin-right: auto;
+	margin-bottom: 100px;
+	font-family: arial, sans-serif;			
+	border: 1px solid black;
+	height: 768px;				
+	width: 1024px;
+	box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+th {
+	border: 1px solid black;
+	height: 60px;
+	text-align: center;
+	letter-spacing: 1.3px;
+	font-family: quattrocento, serif;
+	font-weight: bold;
+	background-color: #5b5b5b;
+	color: white;
+}
+td {
+	border: 1px solid black;
+	text-align: center;
+	letter-spacing: 1.1px;
+	font-family: quattrocento, serif;
+	color: #5b5b5b;
+	padding: 15px;
+}
+.bedroom {
+	height: 50%;
+	border: 2px solid gray;
+	border-radius: 5px;
+}
+#bedroom1 {
+	height: 63%;
+	border: 2px solid gray;
+	border-radius: 5px;
+}
+#bedroom2 {
+	height: 21%;
+	border: 2px solid gray;
+	border-radius: 5px;
+}
+
+/* AMENITIES */
+.bg4 {
+	background-image: url("amenities.jpg");
+	height: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.text3 {
+	font-size: 5vw;
+	text-align: center;
+	padding-top: 140px;
+	font-family: quattrocento, serif;
+	font-weight: bold;
+	letter-spacing: 4.5px;
+	color: #5b5b5b;
+}
+#paragraph4 {
+	color: white;
+	font-family: timesnewroman;
+	font-size: 1.2vw;
+	letter-spacing: 1.1px;
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-right: 30px;	
+}
+.boxgray1 {
+	background-color: #5b5b5b;
+	height: 20%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border: none;
+}
+#Aspa {
+	height: 18.5%;
+	border: 2px solid gray;
+	border-radius: 5px;
+}
+#activities {
+	height: 40%;
+	border: 2px solid gray;
+	border-radius: 5px;
+}
+#sandbox {
+	height: 17%;
+	border: 2px solid gray;
+	border-radius: 5px;
+}
+#swimmingpool {
+	height: 48%;
+	border: 2px solid gray;
+	border-radius: 5px;
+}
+#FamilyAdv {
+	height: 37%;
+	border: 2px solid gray;
+	border-radius: 5px;
+}
+
+/* VENUES AND RECEPTION */
+.bg5 {
+	background-image: url("VnR.jpg");
+	height: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.text4 {
+	font-size: 5vw;
+	text-align: center;
+	padding-top: 140px;
+	font-family: quattrocento, serif;
+	font-weight: bold;
+	letter-spacing: 4.5px;
+	color: #5b5b5b;
+}
+#paragraph5 {
+	color: white;
+	font-family: timesnewroman;
+	font-size: 1.2vw;
+	letter-spacing: 1.1px;
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-right: 30px;	
+}
+.boxgray2 {
+	background-color: #5b5b5b;
+	height: 20%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border: none;
+}
+#meeting {
+	height: 39%;
+	border: 2px solid gray;
+	border-radius: 5px;
+}
+#wedding {
+	height: 43%;
+	border: 2px solid gray;
+	border-radius: 5px;
+}
+.button {
+	display: inline-block;
+	padding: 10px 15px;
+	font-size: 24px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	font-family: quattrocento, serif;
+	color: white;
+	background-color: #5b5b5b;
+	border: none;
+	border-radius: 15px;
+	margin-left: 45%;
+	margin-bottom: 100px;
+	position: absolute;
+}
